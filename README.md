@@ -14,4 +14,4 @@ Contents
 * `umbrella-sampling-pmf/` - example illustrating computation of 1D PMF from umbrella sampling data
 
 
-Currently, only `harmonic_oscillators/harmonic-oscillators.ipynb` and `umbrella-sampling-pmf/umbrella_sampling.ipynb` have been updated.
+Currently, only `harmonic_oscillators/harmonic-oscillators.ipynb` and `umbrella-sampling-pmf/umbrella_sampling.ipynb` have been updated as full notebooks rather than conversion of the python scripts.
