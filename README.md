@@ -1,4 +1,4 @@
-pymbar-examples
+pymbar_notebook_examples
 ===============
 
 Examples illustrating the use of [MBAR](http://github.com/choderalab/pymbar) for various applications in computational and experimental chemistry.
@@ -14,4 +14,4 @@ Contents
 * `umbrella-sampling-pmf/` - example illustrating computation of 1D PMF from umbrella sampling data
 
 
-Currently, only `harmonic_oscillators/harmonic-oscillators.ipynb` and `umbrella-sampling-pmf/umbrella_sampling.ipynb` have been updated as full notebooks rather than conversion of the python scripts.
+Currently, only `harmonic_oscillators/harmonic-oscillators.ipynb`, `harmonic_oscillators/harmonic-oscillators-simple.ipynb` and `umbrella-sampling-pmf/umbrella_sampling.ipynb` have been updated as full notebooks rather than conversion of the python scripts.
